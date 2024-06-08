@@ -2,7 +2,6 @@ package com.literAlura.literAlura.model;
 
 import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.literAlura.literAlura.service.DatosAutor;
 
 import java.util.List;
 
